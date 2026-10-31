@@ -1,0 +1,2 @@
+# CODES-Unified-Theory-of-Closed-Form-Approximations-in-Selected-Probability-Distributions
+This project aims to develop a simple **closed-form approximation in probability distributions,** focusing on the gaussian density function.  In this project, I will create codes to calculate and compare my formula to other existing methods based on efficiency and complexity. You can view the whole description of this project on my LinkedIn
